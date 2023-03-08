@@ -15,8 +15,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Mariam-Saeed/Frontend-Mentor-QR-code-component)
-- Live Site URL: [Add live site URL here](https://mariam-saeed.github.io/Frontend-Mentor-QR-code-component/)
+- Solution URL: [https://github.com/Mariam-Saeed/Frontend-Mentor-QR-code-component](https://github.com/Mariam-Saeed/Frontend-Mentor-QR-code-component)
+- Live Site URL: [https://mariam-saeed.github.io/Frontend-Mentor-QR-code-component/](https://mariam-saeed.github.io/Frontend-Mentor-QR-code-component/)
 
 ### Built with
 

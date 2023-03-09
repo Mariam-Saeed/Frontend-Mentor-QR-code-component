@@ -11,23 +11,24 @@ body {
 }
 
 main {
-   height: 98vh;
+   min-height: 100vh;
    font-family: 'Outfit', sans-serif;
    display: flex;
+   flex-direction: column;
    justify-content: center;
    align-items: center;
    text-align: center;
 }
 
 section {
-   width: 310px;
+   max-width: 310px;
    padding: 15px;
    background-color: hsl(0, 0%, 100%);
    border-radius: 10px;
 }
 
 section img {
-   width: 100%;
+   max-width: 100%;
    border-radius: 10px;
    margin-bottom: 20px;
 }
@@ -49,6 +50,7 @@ section p {
    font-size: 12px;
    text-align: center;
    font-family: sans-serif;
+   margin-top: 10px;
 }
 
 .attribution a {
